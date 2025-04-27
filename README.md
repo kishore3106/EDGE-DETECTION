@@ -22,6 +22,9 @@ Using Sobel operator from cv2,detect the edges of the image.
 
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
+### NAME: KISHORE B
+### REGISTER NO: 212224100032
+
 ### Code:
 ## Original:
 ```
